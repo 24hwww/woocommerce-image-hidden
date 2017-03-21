@@ -12,7 +12,7 @@ Version: 1.0
 Author: 24hwww
 Author URI: http://github.com/24hwww/
 License: Commercial
-License URI: http://github.com/24hwww/woohidden-shop-image/
+License URI: http://github.com/24hwww/woocommerce-image-hidden/
 Text Domain: woocommerce-image-hidden
 
 @author		 24hwww
